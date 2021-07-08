@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+    <string-array name="Clase">
+        <item>Conejo</item>
+        <item>Perro</item>
+        <item>Gato</item>
+    </string-array>
+</resources>
